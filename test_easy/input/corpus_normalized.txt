@@ -1,0 +1,4 @@
+<s> the phone rang in the lab </s>
+<s> the phone rang at the desk </s>
+<s> the lab was dark and the desk was empty </s>
+<s> did the phone ring </s>

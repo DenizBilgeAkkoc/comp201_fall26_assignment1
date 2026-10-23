@@ -1,0 +1,9 @@
+Sentence 1: logprob = -13.6876
+Sentence 2: logprob = -14.0119
+Sentence 3: logprob = -16.4435
+Sentence 4: logprob = -17.8237
+Sentence 5: logprob = -13.4810
+Sentence 6: logprob = -14.2253
+Sentence 7: logprob = -3.1761  <-- best
+Sentence 8: logprob = -3.1761
+Best sentence: 7 (logprob = -3.1761)

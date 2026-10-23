@@ -1,0 +1,38 @@
+it was the -> queen
+the -> queen
+the machine -> then
+the machine then -> the
+alice -> </s>
+the rabbit -> hole
+she -> had
+it was the age of -> the
+we had -> been
+it was the s* -> same
+the m* -> mock
+the* -> the
+th* -> the
+the r* -> rabbit
+then -> the
+there -> was
+they -> were
+th -> <none>
+it -> was
+oh -> dear
+a -> little
+of -> the
+1948 -> claude
+shannon -> for
+the engineers c* -> complained
+the machine then w* -> we
+alice z* -> <none>
+q* -> quick
+rabbit -> hole
+relay -> 7
+relay a* -> alpha
+relay z* -> <none>
+then -> the
+there -> was
+th* -> the
+the* -> the
+abcdefghijklmnopqrstuvwxyzabcde -> </s>
+abcdefghijklmnopqrstuvwxyzabcd -> <none>

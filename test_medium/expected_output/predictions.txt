@@ -1,0 +1,15 @@
+the -> engineer
+the engineer -> wrote
+the machine -> wrote
+shannon -> </s>
+a -> book
+the engineer w* -> wrote
+the s* -> second
+w* -> welcome
+t* -> the
+it was a good day at the -> engineer
+nobody -> could
+engineer -> wrote
+xylophone -> <none>
+the engineer wrote the m* -> machine
+the engineer z* -> <none>

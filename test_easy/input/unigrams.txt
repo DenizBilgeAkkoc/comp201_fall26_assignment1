@@ -1,0 +1,15 @@
+the 7
+</s> 4
+<s> 4
+phone 3
+desk 2
+lab 2
+rang 2
+was 2
+and 1
+at 1
+dark 1
+did 1
+empty 1
+in 1
+ring 1

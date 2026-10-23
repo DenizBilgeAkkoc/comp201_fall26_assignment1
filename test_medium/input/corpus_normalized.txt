@@ -1,0 +1,24 @@
+<s> in 1948 a young engineer joined bell labs </s>
+<s> the engineer didnt know what to expect </s>
+<s> welcome to the lab said shannon </s>
+<s> i need a machine that predicts the next word </s>
+<s> the engineer asked how the machine should work </s>
+<s> shannon opened a book and pointed at a word </s>
+<s> find this word again </s>
+<s> write down the word that follows it </s>
+<s> then find that word and repeat </s>
+<s> the engineer wrote the first program that afternoon </s>
+<s> the program read the book and counted every pair of words </s>
+<s> it wasnt fast but it worked </s>
+<s> shannon looked at the output and laughed </s>
+<s> the machine wrote sentences that almost made sense </s>
+<s> the machine wrote the engineer wrote the machine and stopped </s>
+<s> nobody could explain the last line </s>
+<s> the next day the engineer added a second table </s>
+<s> the second table counted single words </s>
+<s> with both tables the machine could score a sentence </s>
+<s> a real sentence scored higher than a scrambled sentence </s>
+<s> shannon was pleased </s>
+<s> the engineer was pleased too </s>
+<s> it was a good day at the lab </s>
+<s> the engineer left a note without a final period </s>

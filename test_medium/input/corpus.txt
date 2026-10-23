@@ -1,0 +1,22 @@
+...?!	  
+In 1948 a young	  engineer joined Bell Labs. The engineer didn't know
+what to expect. "Welcome to the lab," said Shannon. "I need a machine
+that predicts the next word!"
+
+The engineer asked how the machine should work. Shannon opened a book
+and pointed at a word. "Find this word again. Write down the word that
+follows it. Then find that word, and repeat."
+
+The engineer wrote the first program that afternoon. The program read the
+book and counted every pair of words. It wasn't fast, but it worked!
+
+Shannon looked at the output and laughed. The machine wrote sentences
+that almost made sense. The machine wrote "the engineer wrote the machine"
+and stopped. ?! Nobody could explain the last line.
+
+The next day the engineer added a second table. The second table counted
+single words. With both tables the machine could score a sentence. A real
+sentence scored higher than a scrambled sentence. Shannon was pleased.
+The engineer was pleased too. It was a good day at the lab.
+The engineer left a note
+  without a final period

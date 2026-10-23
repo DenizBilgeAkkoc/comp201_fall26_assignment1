@@ -1,0 +1,8 @@
+the phone -> rang
+the -> phone
+the lab -> </s>
+rang -> at
+the l* -> lab
+rang i* -> in
+d* -> did
+bell -> <none>

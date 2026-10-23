@@ -1,0 +1,4 @@
+Sentence 1: logprob = -5.8224  <-- best
+Sentence 2: logprob = -6.6006
+Sentence 3: logprob = -8.8839
+Best sentence: 1 (logprob = -5.8224)
